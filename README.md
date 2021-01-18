@@ -3,12 +3,12 @@
 ## Project Overview
 
 As a data analysis, i was asked by the Colorado election boad to complete an election aduit of a recent local 
-congressional election. Below, are the following taks that was included in the audit.
+congressional election. Below, are the following taks that are to be incorporated in the audit.
 
 1. Calculate the total number of vote cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate receied.
-4. Calculate the percentage of vote each candidate r3eceived.
+4. Calculate the percentage of vote each candidate received.
 5. Determine the winniner of the election base on popular votes.
 
 ## Resources
