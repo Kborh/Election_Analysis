@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AS a data analysis, i was asked by the Colorado election boad to complete an election aduit of a recent local 
+As a data analysis, i was asked by the Colorado election boad to complete an election aduit of a recent local 
 congressional election. Below, are the following taks that was included in the audit.
 
 1. Calculate the total number of vote cast.
@@ -13,8 +13,8 @@ congressional election. Below, are the following taks that was included in the a
 
 ## Resources
 
-## Data source: election_result.csv
-## Software: Python, VS code
+ Data source: election_result.csv
+ Software: Python, VS code
 
 
 ## Chanllenge Overview
