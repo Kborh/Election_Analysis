@@ -14,6 +14,7 @@ congressional election. Below, are the following taks that was included in the a
 ## Resources
 
  Data source: election_result.csv
+ 
  Software: Python, VS code
 
 
