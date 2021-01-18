@@ -7,7 +7,7 @@ congressional election. Below, are the following taks that are to be incorporate
 
 1. Calculate the total number of vote cast.
 2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate receied.
+3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of vote each candidate received.
 5. Determine the winniner of the election base on popular votes.
 
