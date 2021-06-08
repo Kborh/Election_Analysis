@@ -70,7 +70,7 @@ Vote Count: 272,892
 
 Percentage: 73.8%
 
-## Summery
+## Summary
 
 The analysis of the election show that:
 
